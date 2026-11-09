@@ -1,5 +1,5 @@
 public class Bonjour {
     public static void main(String[] args) {
-        System.out.println("Hello from Scheduled Pipeline (Exercise 6)!");
+        System.out.println("Hello from GitHub!");
     }
 }
